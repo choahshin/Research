@@ -1,2 +1,2 @@
 # Research
-Methane Hydrate
+Basic methods
