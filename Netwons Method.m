@@ -13,7 +13,7 @@ x0 = [.5;-1];
 
 % tolerance
 Err = 1e-5; % absolute error tolerance
-Era = 1e-5; % relative error tolerance
+Era = 1e-10; % relative error tolerance
 n = 0;      % counting parameter
 M = 100;    % maximum number of iteration allowed
 
